@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dalfabay
-- 👀 I’m interested in overall coding 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on programming with python 
+- 👋 Hi, I’m Hofin Chacha
+- 👀 Learning coding with real projects
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate with other techies
 
 
 <!---
